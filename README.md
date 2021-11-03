@@ -1,4 +1,4 @@
-<p align="center"><a href="https://motley-maize-b02.notion.site/CyberY-Journey-34d88141b2c146f5a0556daef9d026c8"><img width="80%" src="https://images.unsplash.com/photo-1503575977665-5e1e9bb63822?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000" /></a></p>
+<p align="center"><a href="https://motley-maize-b02.notion.site/CyberY-Journey-34d88141b2c146f5a0556daef9d026c8"><img width="80%" src="./assests/profile.gif" /></a></p>
 
 <br />
 
