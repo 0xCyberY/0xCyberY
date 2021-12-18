@@ -2,7 +2,7 @@
 
 <br />
 
-### I write code that breaks codes with :coffee: | Cyber Security | #PenTest #RedTeam #PurpleTeam | Noob
+### I write code that breaks codes | Cyber Security | #PenTest #RedTeam #PurpleTeam | Noob
 
 **About me**
 
