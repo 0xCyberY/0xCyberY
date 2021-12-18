@@ -2,7 +2,7 @@
 
 <br />
 
-### I'm a vulnerability assessment and penetration tester.
+### I write code that breaks codes with :coffee: | Cyber Security | #PenTest #RedTeam #PurpleTeam | Noob
 
 **About me**
 
