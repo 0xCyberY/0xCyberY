@@ -11,7 +11,7 @@
 - 📈 Creator of [Ethical Hacking Toolkit](https://0xcybery.github.io/ehtk) and [Black-Hat-Python-2nd-Edition
 ](https://github.com/0xCyberY/Black-Hat-Python-2nd-Edition)
 
-- ❤️ I love doing HTB, THM and writing articles and writeups [here](https://motley-maize-b02.notion.site/CyberY-Journey-34d88141b2c146f5a0556daef9d026c8)
+- ❤️ I love doing HTB, THM and writing articles and writeups [here](https://cybery.notion.site/cybery/CyberY-Journey-34d88141b2c146f5a0556daef9d026c8)
 
 
 
