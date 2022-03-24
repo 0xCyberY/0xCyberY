@@ -8,7 +8,7 @@
 
 - 💼 Cyber Security Intern at [PurpleSynapz](https://www.purplesynapz.com/)
 
-- 📈 Creator of [Ethical Hacking Toolkit](https://0xcybery.github.io/ehtk).
+- 📈 Creator of [Ethical Hacking Toolkit](https://0xcybery.github.io/ehtk) and [Elastic-Case Challenge](https://elastic-case.cyberdefenders.org/).
 
 
 - ❤️ I love doing HTB, THM and writing articles and writeups [here](https://cybery.notion.site/cybery/CyberY-Journey-34d88141b2c146f5a0556daef9d026c8)
