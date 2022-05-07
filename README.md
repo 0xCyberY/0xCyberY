@@ -2,13 +2,13 @@
 
 <br />
 
-### I write code that breaks codes | Cyber Security | #PenTest #RedTeam #PurpleTeam | Noob
+### I write code that breaks codes | CSE Student | Cyber Security Specialist | SOC Analyst L1 | Penetration Tester | Security guy in morning & Crypto guy in evening #BTC
 
 **About me**
 
 - 💼 Cyber Security Intern at [PurpleSynapz](https://www.purplesynapz.com/)
 
-- 📈 Creator of [Ethical Hacking Toolkit](https://0xcybery.github.io/ehtk) and [Elastic-Case Challenge](https://elastic-case.cyberdefenders.org/).
+- 📈 Creator of [Ethical Hacking Toolkit](https://0xcybery.github.io/ehtk) and [Elastic-Case Challenge](https://cyberdefenders.org/blueteam-ctf-challenges/90).
 
 
 - ❤️ I love doing HTB, THM and writing articles and writeups [here](https://cybery.notion.site/cybery/CyberY-Journey-34d88141b2c146f5a0556daef9d026c8)
