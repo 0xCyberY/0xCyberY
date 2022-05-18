@@ -22,9 +22,10 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg"></code>
   
 
-
+"""
 | <a href="https://github.com/0xCyberY/ehtk"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xCyberY&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="0xCyberY's github stats" /></a> | <a href="https://github.com/0xCyberY/ehtk"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcybery&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+"""
 
  <p align="center">
     <a href="https://twitter.com/0xCyberY" target="blank">
