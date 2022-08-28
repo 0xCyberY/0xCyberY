@@ -2,7 +2,7 @@
 
 <br />
 
-### I write code that breaks codes |Cyber Security Researcher | SOC Analyst L1 | Penetration Tester | Security guy in morning & Crypto guy in evening #BTC
+### Cyber Security Researcher | SOC Analyst L1 | Penetration Tester | Security guy in morning & Crypto guy in evening #BTC
 
 **About me**
 
