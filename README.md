@@ -8,7 +8,7 @@
 
 - 🛡️ Cyber Security Researcher at [huntr.dev](https://huntr.dev/users/0xcybery/)
 
-- 💼 Cyber Security Intern at [PurpleSynapz](https://www.purplesynapz.com/)
+- 💼 Cyber Security at [PurpleSynapz](https://www.purplesynapz.com/)
 
 - 📈 Creator of [Ethical Hacking Toolkit](https://0xcybery.github.io/ehtk) and [Elastic-Case Challenge](https://cyberdefenders.org/blueteam-ctf-challenges/90).
 
