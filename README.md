@@ -2,13 +2,13 @@
 
 <br />
 
-### Cyber Security Researcher | SOC Analyst L1 | Penetration Tester | Security guy in morning & Crypto guy in evening #BTC
+### Cyber Security Researcher | Security Analyst | Penetration Tester | Security guy in morning & Crypto guy in evening #BTC
 
 **About me**
 
 - 🛡️ Cyber Security Researcher at [huntr.dev](https://huntr.dev/users/0xcybery/)
 
-- 💼 Cyber Security at [PurpleSynapz](https://www.purplesynapz.com/)
+- 💼 Cyber Security Intern at [PurpleSynapz](https://www.purplesynapz.com/)
 
 - 📈 Creator of [Ethical Hacking Toolkit](https://0xcybery.github.io/ehtk) and [Elastic-Case Challenge](https://cyberdefenders.org/blueteam-ctf-challenges/90).
 
