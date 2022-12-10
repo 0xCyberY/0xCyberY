@@ -6,6 +6,8 @@
 
 **About me**
 
+- 💻 Cyber Security Research at [Cognna](https://cognna.com/)
+
 - 🛡️ Cyber Security Researcher at [huntr.dev](https://huntr.dev/users/0xcybery/)
 
 - 💼 Cyber Security Intern at [PurpleSynapz](https://www.purplesynapz.com/)
