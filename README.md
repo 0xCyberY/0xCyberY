@@ -2,7 +2,7 @@
 
 <br />
 
-### Cyber Security Researcher | Security Analyst | Penetration Tester | Security guy in morning & Crypto guy in evening #BTC
+### Cyber Security Researcher | Security Analyst | Penetration Tester | Purple Teamer 
 
 **About me**
 
